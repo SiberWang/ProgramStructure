@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f876471bf74c3f9336675ade88d5b6, type: 3}
+  m_Name: CardConfigOverview
+  m_EditorClassIdentifier: 
+  cardDatas:
+  - CardName: "\u602A\u72691"
+    Sprite: {fileID: 21300000, guid: f2544b0598436864e8418be13422b70b, type: 3}
+    Attack: 5
+    Defense: 4
+    Heart: 100
+  - CardName: "\u602A\u72692"
+    Sprite: {fileID: 21300000, guid: 280cd3e559fecfa48a736f7aa8a429a4, type: 3}
+    Attack: 7
+    Defense: 3
+    Heart: 85
+  - CardName: "\u602A\u72693"
+    Sprite: {fileID: 21300000, guid: 6cdd068bc6f786141874b02028c4195d, type: 3}
+    Attack: 10
+    Defense: 5
+    Heart: 60
+  - CardName: "\u602A\u72694"
+    Sprite: {fileID: 21300000, guid: 8288fa44cdcf0634f97c9dc328d8f545, type: 3}
+    Attack: 10
+    Defense: 5
+    Heart: 60
+  - CardName: "\u602A\u72695"
+    Sprite: {fileID: 21300000, guid: 02881d439796429458e50991f4a4004e, type: 3}
+    Attack: 5
+    Defense: 10
+    Heart: 100
+  - CardName: "\u602A\u72696"
+    Sprite: {fileID: 21300000, guid: c843ad97211133d4bad7525b6d7e3e07, type: 3}
+    Attack: 50
+    Defense: 15
+    Heart: 250
